@@ -1,9 +1,19 @@
-# CS710S PC Demo App
+# CS710S PC Demo App v1.8
 
 This application is intended for firmware upgrade and controlling the reader via USB-C connection.
  
+
+- Install PC Demo App for for CS710S
+- Unzip the RFID firmware ex10_app2.0.zip file
+- Upgrade RFID firmware to V2.0.0
+- Unzip the Atmel firmware CS710ATMEL_V2.0.4.zip file
+- Upgrade Atmel firmware to V2.0.4
+- Unzip the Bluetooth firmware file CS710_CC2652R7_APP_V1.0.6.zip
+- Upgrade Bluetooth firmware to V1.0.6
+
 ## Note
-- This is only for RFID firmware up to V1.2
-- When doing a USB connection, either make sure battery is fully charged, or use a powered USB hub between PC and CS710S
+
+When doing a USB connection, either make sure battery is fully charged, or use a powered USB hub between PC and CS710S
+
 
 
