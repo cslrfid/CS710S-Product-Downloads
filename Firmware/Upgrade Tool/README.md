@@ -1,9 +1,11 @@
 # CS710S PC Demo App v1.8
 
 This application is intended for firmware upgrade and controlling the reader via USB-C connection.
+(*If you have installed prior version of this App, please uninstall it first.  If you cannot uninstall it, please go 
+to the following path and delete the old version:  C:\Program Files (x86)\CSL\CS710S PC Demo App\)
  
 
-- Install PC Demo App for for CS710S
+- Install PC Demo App* for for CS710S
 - Unzip the RFID firmware ex10_app2.0.zip file
 - Upgrade RFID firmware to V2.0.0
 - Unzip the Atmel firmware CS710ATMEL_V2.0.4.zip file
