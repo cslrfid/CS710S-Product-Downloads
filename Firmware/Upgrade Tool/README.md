@@ -1,6 +1,7 @@
 # CS710S PC Demo App v1.8
 
 This application is intended for firmware upgrade and controlling the reader via USB-C connection.
+
 (*If you have installed prior version of this App, please uninstall it first.  If you cannot uninstall it, please go 
 to the following path and delete the old version:  C:\Program Files (x86)\CSL\CS710S PC Demo App\)
  
