@@ -1,0 +1,1 @@
+# Download latest Atmel firmware here: [V2.0.6](https://raw.githubusercontent.com/cslrfid/CS710S-Product-Downloads/main/Firmware/Firmware%20-%20Atmel/For%20Readers%20with%20RFID%20firmware%20V2.0%20or%20Above/CS710ATMEL_V2.0.6.zip)
