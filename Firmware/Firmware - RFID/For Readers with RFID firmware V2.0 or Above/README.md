@@ -1,0 +1,1 @@
+# Download latest RFID firmware here: [V2.1.2](https://raw.githubusercontent.com/cslrfid/CS710S-Product-Downloads/main/Firmware/Firmware%20-%20RFID/For%20Readers%20with%20RFID%20firmware%20V2.0%20or%20Above/ex10_app_V_2_1_2_gen2x.zip)
