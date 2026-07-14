@@ -1,4 +1,4 @@
-# CS710S PC Demo App V1.23
+# CS710S PC Demo App V1.25
 
 ### [Click here to download](https://raw.githubusercontent.com/cslrfid/CS710S-Product-Downloads/main/Firmware/Upgrade%20Tool/CS710S%20PC%20Demo%20App.zip)
 
